@@ -1,0 +1,2 @@
+model_checkpoint_path: "new_out_model_best.pb"
+all_model_checkpoint_paths: "new_out_model_best.pb"

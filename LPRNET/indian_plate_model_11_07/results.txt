@@ -1,0 +1,9 @@
+label    b'DL8CU8047'    prediction      b'DL8CU8047'
+label    b'AK7605'       prediction      b'AK7605'
+label    b'DL9CM4434'    prediction      b'DL9CM4434'
+label    b'AP29AJ1626'   prediction      b'AP29AJ1626'
+label    b'DL4CAV4880'   prediction      b'DL4CAV4880'
+label    b'DL2CAS0367'   prediction      b'DL2CAS0367'
+label    b'DL8CT7939'    prediction      b'DL8CT7939'
+label    b'DL3CAP3897'   prediction      b'DL3CAP3897'
+ 
